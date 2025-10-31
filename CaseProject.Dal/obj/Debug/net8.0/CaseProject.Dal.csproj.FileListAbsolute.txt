@@ -1,0 +1,17 @@
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/bin/Debug/net8.0/CaseProject.Dal.deps.json
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/bin/Debug/net8.0/CaseProject.Dal.runtimeconfig.json
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/bin/Debug/net8.0/CaseProject.Dal.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/bin/Debug/net8.0/CaseProject.Dal.pdb
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/bin/Debug/net8.0/CaseProject.Entities.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/bin/Debug/net8.0/CaseProject.Entities.pdb
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.csproj.AssemblyReference.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.AssemblyInfoInputs.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.AssemblyInfo.cs
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.csproj.CoreCompileInputs.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProj.F8CAE03E.Up2Date
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/refint/CaseProject.Dal.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.pdb
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.genruntimeconfig.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/ref/CaseProject.Dal.dll

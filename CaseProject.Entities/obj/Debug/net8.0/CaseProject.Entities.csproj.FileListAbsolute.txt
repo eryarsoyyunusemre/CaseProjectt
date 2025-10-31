@@ -1,0 +1,14 @@
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/bin/Debug/net8.0/CaseProject.Entities.deps.json
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/bin/Debug/net8.0/CaseProject.Entities.runtimeconfig.json
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/bin/Debug/net8.0/CaseProject.Entities.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/bin/Debug/net8.0/CaseProject.Entities.pdb
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.csproj.AssemblyReference.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.AssemblyInfoInputs.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.AssemblyInfo.cs
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.csproj.CoreCompileInputs.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/refint/CaseProject.Entities.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.pdb
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.genruntimeconfig.cache
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/ref/CaseProject.Entities.dll

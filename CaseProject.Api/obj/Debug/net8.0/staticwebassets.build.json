@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "auU3LHYlUTYgPWzp8QN9zZVb6Ynw8gGIIJ1FLRZnKBg=",
+  "Source": "CaseProject.Api",
+  "BasePath": "_content/CaseProject.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
