@@ -59,17 +59,18 @@ namespace CaseProject.Api.Controller
         }
 
         [HttpPut("{id}")]
-        public Task<IActionResult> Update(int id, [FromBody] DtoProduct dto)
+        public async Task<IActionResult> Update(int id, [FromBody] DtoProductUpdate dto)
         {
-            var response = _productService.Update(id,dto);
-            return Task.FromResult<IActionResult>(StatusCode(response.StatusCode, response));
+            dto.Id = id;
+            var response = await _productService.Update(dto);
+            return StatusCode(response.StatusCode, response);
         }
 
         [HttpDelete("{id}")]
-        public Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            var response = _productService.Delete(id);
-            return Task.FromResult<IActionResult>(StatusCode(response.StatusCode, response));
+            var response = await _productService.Delete(id);
+            return StatusCode(response.StatusCode, response);
         }
     }
 }

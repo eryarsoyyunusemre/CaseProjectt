@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaseProject.Dal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43c555e7c6a4b4bb37b45f82713d525cbf13ecee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c937d2ca13aa63169be2b038126a58b998943a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaseProject.Dal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaseProject.Dal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

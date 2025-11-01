@@ -247,3 +247,4 @@
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Api/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Api/bin/Debug/net8.0/CaseProject.Bll.dll
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Api/bin/Debug/net8.0/CaseProject.Bll.pdb
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Api/obj/Debug/net8.0/CaseProject.Api.sourcelink.json

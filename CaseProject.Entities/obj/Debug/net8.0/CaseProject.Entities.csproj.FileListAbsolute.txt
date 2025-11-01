@@ -12,3 +12,4 @@
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.pdb
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.genruntimeconfig.cache
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/ref/CaseProject.Entities.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Entities/obj/Debug/net8.0/CaseProject.Entities.sourcelink.json

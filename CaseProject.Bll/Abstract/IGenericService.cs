@@ -5,18 +5,14 @@ namespace CaseProject.Bll.Abstract;
 
 public interface IGenericService<T> where T :class 
 {
-    IResponse<TDto> Find<TDto>(object id) where TDto : class, IDtoBase;
-    IResponse<TDto> Get<TDto>(Expression<Func<T, bool>> expression) where TDto : class, IDtoBase;
-    IResponse<List<TDto>> GetAll<TDto>(Expression<Func<T, bool>>? expression = null) where TDto : class, IDtoBase;
     
     Task<IResponse<TDto>> Add<TDto>(TDto dto, bool saveChanges = true) 
         where TDto : class, IDtoBase;
 
-    IResponse<TDto> Update<TDto>(int id, TDto dto) where TDto : class, IDtoBase;
+    Task<IResponse<TDto>> Update<TDto>(TDto dto) where TDto : class, IDtoBase;
     
-    IResponse<bool> Delete(object id, bool saveChanges = true);
+    Task<IResponse<bool>> Delete(object id, bool saveChanges = true);
     
-    IResponse<bool> Delete(Expression<Func<T, bool>> expression, bool saveChanges = true);
     
     IQueryable<T> GetIQueryable();
     

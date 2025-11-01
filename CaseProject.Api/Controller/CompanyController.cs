@@ -14,22 +14,22 @@ namespace CaseProject.Api.Controller
         {
             _companyService = companyService;
         }
-          
-        
+
+
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
             var response = await _companyService.GetAllAsync<DtoCompany>();
             return StatusCode(response.StatusCode, response);
         }
-        
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
             var response = await _companyService.FindAsync<DtoCompany>(id);
             return StatusCode(response.StatusCode, response);
         }
-        
+
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] DtoCompany dtoCompany)
         {
@@ -48,19 +48,20 @@ namespace CaseProject.Api.Controller
                 });
             }
         }
-        
+
         [HttpPut("{id}")]
-        public Task<IActionResult> Update(int id, [FromBody] DtoCompany dtoCompany)
+        public async Task<IActionResult> Update(int id, [FromBody] DtoCompanyUpdate dtoCompany)
         {
-            var response = _companyService.Update(id,dtoCompany);
-            return Task.FromResult<IActionResult>(StatusCode(response.StatusCode, response));
+            dtoCompany.Id = id;
+            var response = await _companyService.Update(dtoCompany);
+            return StatusCode(response.StatusCode, response);
         }
-        
+
         [HttpDelete("{id}")]
-        public Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            var response = _companyService.Delete(id);
-            return Task.FromResult<IActionResult>(StatusCode(response.StatusCode, response));
+            var response = await _companyService.Delete(id);
+            return StatusCode(response.StatusCode, response);
         }
     }
 }

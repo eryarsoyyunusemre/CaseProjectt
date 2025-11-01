@@ -15,3 +15,4 @@
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.pdb
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.genruntimeconfig.cache
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/ref/CaseProject.Dal.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Dal/obj/Debug/net8.0/CaseProject.Dal.sourcelink.json

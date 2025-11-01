@@ -17,3 +17,4 @@
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Bll/obj/Debug/net8.0/CaseProject.Bll.pdb
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Bll/obj/Debug/net8.0/CaseProject.Bll.genruntimeconfig.cache
 /Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Bll/obj/Debug/net8.0/ref/CaseProject.Bll.dll
+/Users/yunusemreeryarsoy/RiderProjects/CaseProject/CaseProject.Bll/obj/Debug/net8.0/CaseProject.Bll.sourcelink.json

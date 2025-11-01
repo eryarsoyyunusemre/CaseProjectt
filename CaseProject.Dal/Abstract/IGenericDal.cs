@@ -20,5 +20,6 @@ namespace CaseProject.Dal.Abstract
         IQueryable<T> GetIQueryable();
         
         Task<int> SaveAsync();
+        
     }
 }
